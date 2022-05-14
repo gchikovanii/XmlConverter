@@ -1,0 +1,11 @@
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\bin\Debug\ConvertXml.exe.config
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\bin\Debug\ConvertXml.exe
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\bin\Debug\ConvertXml.pdb
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\obj\Debug\ConvertXml.csproj.AssemblyReference.cache
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\obj\Debug\ConvertXml.csproj.SuggestedBindingRedirects.cache
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\obj\Debug\ConvertXml.XmlConverterForm.resources
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\obj\Debug\ConvertXml.Properties.Resources.resources
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\obj\Debug\ConvertXml.csproj.GenerateResource.cache
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\obj\Debug\ConvertXml.csproj.CoreCompileInputs.cache
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\obj\Debug\ConvertXml.exe
+D:\Full-Stack\Visual studio 2022\JobProjects\ConvertXml\ConvertXml\obj\Debug\ConvertXml.pdb
